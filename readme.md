@@ -3,7 +3,7 @@
 
 ## Usage
 Just ```cargo build``` to create the binary.\
-Then run ```img-organizer source-folder output-folder``` ,\
+Then run ```img-organizer source-folder output-folder``` \
 or one-liner ```cargo run -- source-folder output-folder```
 
 ## License
