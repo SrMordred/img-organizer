@@ -1,5 +1,5 @@
 # img-organizer
-`img-organizer` is a simple cli program made in Rust that organize photos by their creation date into folder for each year/month.
+`img-organizer` is a simple cli program made in Rust that organize photos by their creation date into folders for each year/month.
 
 ## Usage
 Just ```cargo build``` to create the binary.\
